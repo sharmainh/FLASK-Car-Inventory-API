@@ -1,0 +1,20 @@
+*,*:before,*::after{
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit;
+    /* border: 1px solid red;  */
+}
+
+
+/* Modify the background color */
+ 
+.navbar-custom {
+    background-color: rgb(1, 1, 42);
+}
+/* Modify brand and text color */
+ 
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color:white;
+
+}
